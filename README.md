@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/dT4BpJpr)
 # W7_5
 
 Analyse provided CSV data and create a summary of daily power usage and cost. Use the data from the provided csv-files A7_T5_D1.csv, A7_T5_D2.csv and A7_T5_D3.csv.
